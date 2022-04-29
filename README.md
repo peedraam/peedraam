@@ -2,7 +2,6 @@ Hi 👋 My name is Pedram Ghorbanpour
 ===================================  
 
 Mechanical Engineer and Full stack Developer 
-
 --------------------------------------------  
 
 I have a bachelors in Mechanical Engineering and a Master's in Energy Engineering. In 2020 I started my developer journey by learning Python. Now I am a full stack developer and I am managing a team of developers to develop a website for designing Tidal energy Farms.  
